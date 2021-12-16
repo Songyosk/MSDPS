@@ -1,5 +1,5 @@
 # Modelling Single & Double Pendulum Systems (MSDPS)
-Using finite difference methods for solving orrdinary differential equations
+Using finite difference methods for solving ordinary differential equations
 
 
 
