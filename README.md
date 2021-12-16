@@ -9,7 +9,7 @@ The dynamics of a single pendulum and a double pendulum were computationally exa
 
 
 ## Requirements
-Python 2.x is required to run the scripts (except those with name beginning with 'ODE_').
+Python 2.x is required to run the scripts (except for those with name beginning with 'ODE_').
 
 Create an environment using conda as follows:
 ```bash
