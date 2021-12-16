@@ -97,11 +97,12 @@ Figure 9: The dynamics of the double pendulum with parameters: h = 0.01, G = 1.0
  
 ![FIG10DoubleEnergyDamp](https://user-images.githubusercontent.com/56391325/146284872-c99fe9b6-7ae0-4f52-a1a0-717bc571d071.png)
 
-Figure 10:  The variation of $E$ over $t$ with parameters: $h=0.01$; $G=1.0$; $R = \{0.01, 1, 100\}$.
+Figure 10:  The variation of $E$ over $t$ with parameters: h = 0.01, G = 1.0, R = {0.01, 1, 100}.
 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/S.G.Jung-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/son-gyo-jung-655537135/)
+
 
 ## License
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
