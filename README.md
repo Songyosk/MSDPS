@@ -1,6 +1,6 @@
 # Modelling Single & Double Pendulum Systems (MSDPS)
 Using finite difference methods for solving ordinary differential equations
-
+[![DOI](https://zenodo.org/badge/438801270.svg)](https://zenodo.org/badge/latestdoi/438801270)
 
 
 ## Introduction
@@ -105,4 +105,4 @@ Figure 10:  The variation of $E$ over $t$ with parameters: h = 0.01, G = 1.0, R 
 
 
 ## License
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
